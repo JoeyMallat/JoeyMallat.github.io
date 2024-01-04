@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>Ultimate GM Support Page</title>
+  </head>
+  <body>
+    <h1>Ultimate GM Support</h1>
+
+    <h2>Contact details</h2>
+    <p>Email address: joey@joeymallat.com</p>
+    <p>Discord: https://discord.gg/6sNUGGjfqm</p>
+  </body>
+</html>
